@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` PageNotFound snapshot 1`] = `
+<div>
+  <div>
+    Page Not Found
+  </div>
+</div>
+`;
+
+exports[` UserInputPage snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-6"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root"
+    >
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input"
+          placeholder="enter name"
+          required=""
+          type="text"
+          value=""
+        />
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-7 MuiOutlinedInput-notchedOutline"
+          style="padding-left: 8px;"
+        >
+          <legend
+            class="PrivateNotchedOutline-legend-8"
+            style="width: 0.01px;"
+          >
+            <span>
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-text"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Enter the Exam
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`PageNotFound snapshot 1`] = `
+<div>
+  <header
+    class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4"
+  >
+    <div
+      class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+      >
+        Question And Answer App
+      </p>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`PieChart snapshot test 1`] = `
+<div>
+  <div
+    style="display: flex; width: 200px; height: 200px; border-radius: 50%;"
+  />
+</div>
+`;
+
+exports[`renders le react link 1`] = `
+<div>
+  <header
+    class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4"
+  >
+    <div
+      class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+      >
+        Question And Answer App
+      </p>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`renders learn react link 1`] = `
+<div>
+  <div
+    style="display: flex; width: 200px; height: 200px; border-radius: 50%;"
+  />
+</div>
+`;

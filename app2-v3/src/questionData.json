@@ -1,0 +1,10 @@
+[
+  { "id": 1, "question": "1 + 1 = ", "answer": "2", "option": [""] },
+  {
+    "id": 2,
+    "question": "1 + 2 = ",
+    "answer": "3",
+    "option": ["4", "3", "1", "5"]
+  },
+  { "id": 3, "question": "is 3 > 5 ", "answer": "no", "option": ["yes", "no"] }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "1+1",
+    "answer": "2",
+    "option": [""],
+    "questionOption": [""]
+  },
+  {
+    "id": 2,
+    "question": "1+2",
+    "answer": "3",
+    "option": ["4", "3", "2", "1"],
+    "questionOption": [""]
+  },
+  {
+    "id": 3,
+    "question": "3>2",
+    "answer": "yes",
+    "option": ["no", "yes"],
+    "questionOption": [""]
+  },
+  {
+    "id": 4,
+    "question": "palue of pie",
+    "answer": ["3.142", "22/7"],
+    "option": ["2", "5", "3.142", "22/7"],
+    "questionOption": [""]
+  },
+  {
+    "id": 5,
+    "question": "match the following",
+    "answer": ["6", "8", "10", "12"],
+    "option": ["8", "6", "12", "10"],
+    "questionOption": ["3+3 = ", "4+4 = ", "5+5 = ", "6+6 = "]
+  }
+]

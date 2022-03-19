@@ -1,0 +1,284 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test on CountryDetailsCard componet  snapshot tes on CountryInput componet  without prop 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-43"
+    >
+      <img
+        class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+      />
+      <div
+        class="MuiCardContent-root"
+      >
+        <p
+          class="MuiTypography-root makeStyles-title-41 MuiTypography-body1"
+        >
+          Country
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-subTitle-42 MuiTypography-body1"
+        />
+        <p
+          class="MuiTypography-root makeStyles-title-41 MuiTypography-body1"
+        >
+          Capital
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-subTitle-42 MuiTypography-body1"
+        />
+        <p
+          class="MuiTypography-root makeStyles-title-41 MuiTypography-body1"
+        >
+          Population
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-subTitle-42 MuiTypography-body1"
+        />
+        <p
+          class="MuiTypography-root makeStyles-title-41 MuiTypography-body1"
+        >
+          Lat-Lng
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+        >
+          -
+        </p>
+      </div>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Show Weather Data
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test on CountryDetailsCard componet  snapshot test on CountryInput componet  with prop 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-46"
+    >
+      <img
+        class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+      />
+      <div
+        class="MuiCardContent-root"
+      >
+        <p
+          class="MuiTypography-root makeStyles-title-44 MuiTypography-body1"
+        >
+          Country
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-subTitle-45 MuiTypography-body1"
+        >
+          India
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-title-44 MuiTypography-body1"
+        >
+          Capital
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-subTitle-45 MuiTypography-body1"
+        >
+          Dehli
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-title-44 MuiTypography-body1"
+        >
+          Population
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-subTitle-45 MuiTypography-body1"
+        >
+          130cr
+        </p>
+        <p
+          class="MuiTypography-root makeStyles-title-44 MuiTypography-body1"
+        >
+          Lat-Lng
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+        >
+          20
+          -
+          17
+        </p>
+      </div>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Show Weather Data
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`test on CountryInput componet   snapshot tes and fireEvent changing input value  1`] = `
+<div>
+  <form
+    class="MuiBox-root MuiBox-root-24"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root"
+    >
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input"
+          placeholder="Enter Country name"
+          required=""
+          type="text"
+          value="sooraj"
+        />
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-25 MuiOutlinedInput-notchedOutline"
+          style="padding-left: 8px;"
+        >
+          <legend
+            class="PrivateNotchedOutline-legend-26"
+            style="width: 0.01px;"
+          >
+            <span>
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      tabindex="0"
+      type="submit"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Search
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </form>
+</div>
+`;
+
+exports[`test on CountryInput componet  snapshot tes on CountryInput componet  1`] = `
+<div>
+  <form
+    class="MuiBox-root MuiBox-root-19"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root"
+    >
+      <div
+        class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiOutlinedInput-input"
+          placeholder="Enter Country name"
+          required=""
+          type="text"
+          value=""
+        />
+        <fieldset
+          aria-hidden="true"
+          class="PrivateNotchedOutline-root-20 MuiOutlinedInput-notchedOutline"
+          style="padding-left: 8px;"
+        >
+          <legend
+            class="PrivateNotchedOutline-legend-21"
+            style="width: 0.01px;"
+          >
+            <span>
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+      tabindex="0"
+      type="submit"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Search
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </form>
+</div>
+`;
+
+exports[`test on NavBar componet  snapshot tes on NavBar componet  1`] = `
+<div>
+  <header
+    class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4"
+  >
+    <div
+      class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+      >
+        Country Weather App
+      </p>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`test on ShowError componet  snapshot tes on ShowError componet  1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-3"
+  >
+    <h1>
+      <div>
+        Oops
+      </div>
+      Somthing Went wrong!
+    </h1>
+  </div>
+</div>
+`;

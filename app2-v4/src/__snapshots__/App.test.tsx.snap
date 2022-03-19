@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test on NavBar snapshot test NavBar 1`] = `
+<div>
+  <header
+    class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4"
+  >
+    <div
+      class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+      >
+        Question and Weather App
+      </p>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`test on PieChart snapshot test PieChart 1`] = `
+<div>
+  <div
+    style="display: flex; height: 200px; width: 200px; border-radius: 50%;"
+  />
+</div>
+`;
+
+exports[`test on QuestionIndicator snapshot test QuestionIndicatorR 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-6"
+  >
+    <a
+      href="/question/1"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-7"
+      >
+        1
+      </div>
+    </a>
+    <a
+      href="/question/2"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-8"
+      >
+        2
+      </div>
+    </a>
+    <a
+      href="/question/3"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-9"
+      >
+        3
+      </div>
+    </a>
+    <a
+      href="/question/4"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-10"
+      >
+        4
+      </div>
+    </a>
+  </div>
+</div>
+`;
